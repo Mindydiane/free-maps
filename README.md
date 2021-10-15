@@ -29,9 +29,9 @@ Find free items on the go! Check out the free-maps, someone elses trash may be t
 
 ✋ [Deployed Application URL](https://tranquil-garden-66594.herokuapp.com/)
 
-![Screen Shot](/client/public/assets/screenshot.JPG)
+![tranquil-garden-66594 herokuapp com_](https://user-images.githubusercontent.com/80286982/137552140-d04efae2-2a83-4529-a5e0-d01593ee58c1.png)
 
-
+![tranquil-garden-66594 herokuapp com_map](https://user-images.githubusercontent.com/80286982/137552337-a3407027-cfd7-42c0-93ba-51fed303f49c.png)
 
 ## Table of Contents
 
